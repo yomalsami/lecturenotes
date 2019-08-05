@@ -1,1 +1,1 @@
-# lecturenotes
+Lecture Notes Library
